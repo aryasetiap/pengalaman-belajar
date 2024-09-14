@@ -1,7 +1,9 @@
-Pengalaman Belajar di Dicoding
+# Pengalaman Belajar di Dicoding
 
-14 September 2024 
+**14 September 2024**<br> 
 Belajar kelas Dasar Git dengan GitHub. (Progres 32%)
+* Sangat menyenangkan
 
-14 September 2024
+**14 September 2024**<br>
 Belajar kelas Dasar Git dengan GitHub. (Progres 39%)
+* Materi yang dipelajari mudah dipahami
